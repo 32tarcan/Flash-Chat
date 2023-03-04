@@ -1,1 +1,2 @@
-# Flash-Chat![FlashChat](https://user-images.githubusercontent.com/101280910/222900856-5fa9dbf5-3071-4234-9ae9-713a620ef914.gif)
+
+![FlashChat](https://user-images.githubusercontent.com/101280910/222901294-60f6b617-1835-4bb3-aed7-d0b858e214ec.gif)
