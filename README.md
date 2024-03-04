@@ -2,7 +2,7 @@
 
 - This app allows users to send and receive text messages in real-time. The app utilizes Firebase's Realtime Database to store the messages and display them in a chat view. The user can also create a profile and view their chats.
 
-**Usage:**
+**Usage:**i
 
 - Open the app and create a profile. You will then be taken to a chat view where you can select a chat room and start chatting with other users. Type your message in the text field and press send to send your message. The chat view will display your messages and any messages sent by other users in real-time.
 
