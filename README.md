@@ -26,7 +26,7 @@ The project's code structure consists of several different UIKit views:
 
 - Firebase/Auth: Used for user authentication.
 
-- IQKeyboardManagerSwift: Used for keyboard management.
+- IQKeyboardManagerSwift: Used for keyboard management
 
 - SVProgressHUD: Used for progress and loading indicators.
 
