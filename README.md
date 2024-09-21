@@ -1,4 +1,4 @@
-**Chat App..:**
+**Chat App:**
 
 - This app allows users to send and receive text messages in real-time. The app utilizes Firebase's Realtime Database to store the messages and display them in a chat view. The user can also create a profile and view their chats.
 
