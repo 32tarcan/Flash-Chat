@@ -10,7 +10,7 @@
 
 The project's code structure consists of several different UIKit views:
 
-- LoginViewController: A view controller for handling user login and profile creation.
+- LoginViewController A view controller for handling user login and profile creation.
 
 - ChatRoomViewController: A view controller for displaying a list of chat rooms and allowing users to select a chat room to enter.
 
